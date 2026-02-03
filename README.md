@@ -110,7 +110,7 @@
 
     <div class="card" id="mainCard">
         <div id="ask">
-            <h1>kutti nannu pelli chesukuntavaa? 💍</h1>
+            <h1>kutti will you be my bestfriend </h1>
             <div class="buttons">
                 <button id="yesBtn">Yes! ❤️</button>
                 <button id="noBtn">No</button>
@@ -118,7 +118,7 @@
         </div>
 
         <div id="success">
-            <p class="love-text">Naaku telusu nuvvu adi click chesthava ani <br><br> I LOVE YOU 🥰😘</p>
+            <p class="love-text">best choice ever <br><br> i will be with you forever 🥰😘</p>
             <div style="font-size: 3rem; margin-top: 20px;">🧸🎈💖✨</div>
         </div>
     </div>
